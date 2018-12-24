@@ -1,6 +1,5 @@
 def hello(name):
     print("hello " + name + " have a good day")
-    print("this is my second attempt")
 
 
 def goodbye(name):
@@ -13,6 +12,13 @@ def weather():
 
 def rain():
     print("it's not currently raining")
+
+
+def today(name):
+    hello(name)
+    weather()
+    rain()
+    goodbye(name)
 
 
 
