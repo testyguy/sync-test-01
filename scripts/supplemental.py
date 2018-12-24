@@ -7,6 +7,10 @@ def goodbye(name):
     print("goodbye user " + name)
 
 
+def weather():
+    print("it's cold outside")
+
+
 
 
 
