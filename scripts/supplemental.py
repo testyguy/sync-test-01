@@ -3,4 +3,10 @@ def hello(name):
     print("this is my second attempt")
 
 
+def goodbye(name):
+    print("goodbye user " + name)
+
+
+
+
 
