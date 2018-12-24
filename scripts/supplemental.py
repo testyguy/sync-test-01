@@ -21,6 +21,10 @@ def today(name):
     goodbye(name)
 
 
+def count(x):
+    for y in range(x):
+        print(y)
+
 
 
 
