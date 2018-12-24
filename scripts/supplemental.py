@@ -11,6 +11,11 @@ def weather():
     print("it's cold outside")
 
 
+def rain():
+    print("it's not currently raining")
+
+
+
 
 
 
